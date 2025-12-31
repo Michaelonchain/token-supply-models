@@ -1,3 +1,4 @@
+This repo demonstrates how I design and analyze token supply for early-stage Web3 projects.
 🔹 Token Supply Models
 A collection of common and advanced token supply mechanics used in Web3.
 
